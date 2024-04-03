@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<h1>My name is Rowida</h1>
+<p>I like skateboarding and sewing. I have 2 brothers and 1 sister. I love mango icecream.</p>
+</body>
+<style>
+body {
+     background-color: #076b92;
+   }
+h1 {
+  color: #7d17c9;
+}
+p{
+color: #dcf179;
+}
+</style>
+<title>My Personal Introduction </title>
+</head>
+
+</html>
